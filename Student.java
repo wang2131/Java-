@@ -2,6 +2,8 @@ public class Student {
 
 
     private int xuhao;
+
+
     private String name;
     private int xuehao;
     private int course1_score;
@@ -47,6 +49,9 @@ public class Student {
     }
     public void setName(String name) {
         this.name = name;
+    }
+    public String getName() {
+        return name;
     }
 
 }
