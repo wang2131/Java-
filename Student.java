@@ -1,4 +1,3 @@
-package 实验二.src;
 public class Student {
 
 
