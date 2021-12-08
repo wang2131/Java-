@@ -1,4 +1,3 @@
-package 实验二.src;
 import java.util.*;
 public class 操作 {
     public static Scanner sc=new Scanner (System.in);
